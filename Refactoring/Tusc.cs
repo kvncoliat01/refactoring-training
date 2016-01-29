@@ -12,6 +12,7 @@ namespace Refactoring
     {
         public static void Start(List<User> usrs, List<Product> prods)
         {
+
             // Write welcome message
             Console.WriteLine("Welcome to TUSC");
             Console.WriteLine("---------------");
